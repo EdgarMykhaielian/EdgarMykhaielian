@@ -6,5 +6,5 @@
 
 ### Hola, I'm Edgar Mykhaielian 👋
 
-- 🌱 I’m currently learning HTML,CSS,JS,React,Git...
+- 🌱 I’m currently learning HTML, CSS, JS, React, Git...
 - 📫 How to reach me: <malito>edgarmykhaielian@gmail.com</malito>
